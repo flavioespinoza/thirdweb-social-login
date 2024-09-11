@@ -1,12 +1,14 @@
 # thirdweb-social-login
 
-Install dependencies.
+Social Login for Web3 authentication
+
+## Install dependencies.
 
 ```bash
 yarn
 ```
 
-Run application.
+## Run application.
 
 ```bash
 yarn dev
